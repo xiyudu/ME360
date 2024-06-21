@@ -26,7 +26,7 @@ The course materials provided in this repository are based on the textbook [Nume
   * 6.3 Systems of Ordinary Differential Equations
   * 6.4 Runge–Kutta Methods and Applications
 
-In this repository, you can find a collection of [lecture notes](https://github.com/xiyudu/ME360/blob/main/Lecture_Notes), Jupyter Notebooks and [a sample course schedule](https://github.com/xiyudu/ME360/blob/main/course_schedule.md). If you are offering a similar course and want my sample homeworks, exams and filled in-class Jupyter Notebooks, please [email me](mailto:xiyudu@hawaii.edu).
+In this repository, you can find a collection of [lecture notes](https://github.com/xiyudu/ME360/tree/main/Lecture_Notes), [Jupyter Notebooks](https://github.com/xiyudu/ME360/tree/main/Jupyter_Notebooks) and [a sample course schedule](https://github.com/xiyudu/ME360/blob/main/course_schedule.md). If you are offering a similar course and want my sample homeworks, exams and filled in-class Jupyter Notebooks, please [email me](mailto:xiyudu@hawaii.edu).
 
 Special thanks for [Prof. Will Uspal](https://www2.hawaii.edu/~uspal/people.html) for providing me his course materials when I was developing my course.
 
